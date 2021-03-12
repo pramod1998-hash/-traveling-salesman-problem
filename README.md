@@ -10,6 +10,7 @@ In the theory of computational complexity, the decision version of the TSP (wher
 
 
 The Solutions
+
 To solve this problem, here are 3 proposed solutions:
 
 Brute Force: Randomly generating any path and calculating the distance. Not a fast and ideal solution
