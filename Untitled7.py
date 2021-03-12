@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # Python3 program to implement traveling salesman 
 # problem using naive approach. 
 from sys import maxsize 
@@ -48,10 +42,4 @@ if __name__ == "__main__":
             [15, 35, 0, 30], [20, 25, 30, 0]] 
     s = 0
     print(travellingSalesmanProblem(graph, s))
-
-
-# In[ ]:
-
-
-
 
